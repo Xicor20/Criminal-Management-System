@@ -69,6 +69,7 @@ A ready-to-use SQL file is included:
 ```sql
 CREATE DATABASE criminal_management_system;
 USE criminal_management_system;
+```
 
 📸 UI Overview
 Form-based input system for criminal data
