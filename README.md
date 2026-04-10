@@ -18,7 +18,7 @@ It is designed to simulate real-world **law enforcement data systems**, focusing
 
 ---
 
-## 🚀 Key Highlights (Recruiter Focus)
+## 🚀 Key Highlights 
 
 - Built a **data-driven desktop application** using Python  
 - Implemented **end-to-end CRUD operations** with MySQL  
@@ -69,3 +69,39 @@ A ready-to-use SQL file is included:
 ```sql
 CREATE DATABASE criminal_management_system;
 USE criminal_management_system;
+
+📸 UI Overview
+Form-based input system for criminal data
+Search panel for quick lookup
+Scrollable table using Treeview
+Image-enhanced layout for better UX
+
+🧠 Concepts Demonstrated
+Object-Oriented Programming (OOP)
+Event-Driven Programming
+Database Design & Integration
+SQL Query Execution
+GUI Layout Management
+Input Handling & State Management
+
+🔒 Notes
+Ensure MySQL server is running
+Import db.sql before running the application
+Update database credentials before execution
+
+🤝 Contributing
+
+Contributions are welcome. Feel free to fork the repo and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Your Name
+
+GitHub: https://github.com/Xicor20
+Email: tusharpokhariyal@gmail.com
+
+⭐ If you found this project useful, consider giving it a star!
