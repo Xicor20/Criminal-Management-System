@@ -112,7 +112,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Tushar Pokhariyal*
+**Tushar Pokhariyal**
 
 - GitHub: https://github.com/Xicor20  
 - Email: tusharpokhariyal@gmail.com  
